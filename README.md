@@ -30,8 +30,9 @@
 - Git + GitHub
 
 ## 📁 Структура проекта
+```
 CalculatorProject/
-├── .gitignore             # Игнорируем ненужные файлы
+├── .gitignore              # Игнорируем ненужные файлы
 ├── README.md              # Описание проекта
 ├── src/
 │   └── main/
@@ -47,8 +48,9 @@ CalculatorProject/
 │           ├── AdvancedCalculatorTest.java
 │           └── CalculatorParameterizedTest.java
 └── lib/                    # JAR файлы
-├── junit-4.13.2.jar
-└── hamcrest-core-1.3.jar
+    ├── junit-4.13.2.jar
+    └── hamcrest-core-1.3.jar
+```
 
 ## 🚀 Запуск тестов
 
