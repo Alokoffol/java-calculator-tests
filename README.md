@@ -39,7 +39,7 @@ CalculatorProject/
 │       └── java/
 │           └── calculator/
 │               ├── Calculator.java
-│               ├── AdvancedCalculator.java
+│               ├── main.java.calculator.AdvancedCalculator.java
 │               └── Main.java
 ├── test/
 │   └── java/
